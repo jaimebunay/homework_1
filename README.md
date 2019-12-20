@@ -29,16 +29,29 @@
     
 
     
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+* Avant employs advance machine learning algorithms and big data to facilitate personal loans and enhance the customer experience. The entire process is done on its online platform and inviduals can get answers to their loan applications in real time. Since the company targets individuals with subprime credit scores, it must consider multiple factors when determining a person's ability to borrow money. This approach takes into considerion factors that go beyond the traditional measures used by influencial credit score companies. **FICO Scores** are used as the industry standard by lenders. They calculate a person's credit score by anlyzing specific data that fall within these categories: 
+  1. Amount owed 
+  2. New lines of credit
+  3. Length of credit history 
+  4. Payment history 
+  5. Credit Mix
+
+In contrast, Avant takes advatage of big data to consider more than 10,000 variables to calculate its own credit score about an individual. The amount of data includes, but is not limited to, the applicants use of social media, cell phone, credit, etc. It's machine learning technology is used to determine risk depending on the attributes of each applicant. 
 
 
 ## Landscape:
 
-* What domain of the financial industry is the company in?
+* Avant aims to be a leading company in the *Digital Lending* industry. It is described as revolutionary online consumer platform that is changing the way consumers can get access personal loans. 
 
-* What have been the major trends and innovations of this domain over the last 5-10 years?
+* Bill Gates once stated that "Banking is a neccessity, banks are not." This reflects the common attitude that today's consumers' have when it comes to personal financing. The biggest factor influencing the evolvement of digital lending is that consumers are no longer satisfied with traditional banking. "They are driven by price and convenience". With further advancement in smart phone capabilites, internet speed, computing power, and rapid expansion of FinTech start-ups, incumbents in the online lending industry are striving to provide products and services at a lower cost with consumer experience in mind. Here are key trends that have influenced innovation in the lending landscape: 
+  1. **Marketplace acting as matchmakers:** the result of P2P, connects lenders and borrowers from different areas. 
+  2. **Birth of new lending products:** people can borrow money at customized rates and periods depending on their specific needs. *Subprime* borrowers have acces to financial products.
+  3. **e-KYC has become the norm:** helps businesses identify thier clients electronically in a matter of minutes.  Example: Aadhaar. 
 
-* What are the other major companies in this domain?
+
+* **Major Players in Digital Personal Lending**
+  
+  Avant's top competitors are: Prosper, SoFi, bynk, Lendmark, DFC, Enova, OneMain Financial, and Springleaf.
 
 
 ## Results
