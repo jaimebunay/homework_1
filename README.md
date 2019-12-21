@@ -15,7 +15,7 @@
 
 ## Business Activities:
 
-* By technology, Avant has streamlined the process of obtaining secure and convenient personal loans. Its online platform helps users borrow money at the lowest possible rates. Individuals can use the funds for debt consolidations or cover unexpected expenses.  
+* With the use technology, Avant has streamlined the process of obtaining secure and convenient personal loans. Its online platform helps users borrow money at the lowest possible rates. Individuals can use the funds for debt consolidations or cover unexpected expenses.  
 
 * The company's intended customers are individuals with unperfect or below *prime* credit scores or those who are starting to build their credit. Such individuals would not have access to financial products through traditional and stablished lending entities like banks. Avant uses advanced analytics methods to help consumers qualify for personal loans ranging from $2,000 to $35,000 at the lowest rate possible. The company lowers the barriers of borrowing by:    
     1. Establishing minimum credit score requirements. 
