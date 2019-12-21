@@ -83,99 +83,39 @@ As the company expands, the data that is available to them also grows. Since its
 
 * In order to get into the insurance business, Avant needs to expand the technologies it already possesses and provide usage-based insurance. It can use the cell phone application that are already available to collect data on driver behavior.  
 
-* Why are these technologies appropriate for your solution?
-```
-
-#### 4. Write the case study. 
-
-Write the finished case study report in a markdown `README.md` file, using the above case study template. Your report should be approximately 5–8 pages long to ensure you provide all relevant information.
-
-Be sure to cite your sources in an addendum on the final page. List all websites, podcasts, blogs, or articles that you consulted in order to write the report and provide links. Your list should be thorough and account for all sources you used, but it does not need to be a formal works cited page. 
-
-#### 5. Present your findings.
-
-Create a short slideshow that summarizes the information in your case study report and present it to the class. Plan on having 1 or 2 slides for each of the 5 sections of the template. Your presentation should be no more than 5 minutes. 
-
-#### 6. Upload your case study to your git repository.
-
-You learned some technical aspects of FinTech this week, including how to set up and populate a git repository. As a final step, take your finished case study and upload it to a repository to share with your instructor and class.
-
 ---
+##Resources
 
-## Resources
+[Top Ten FinTech Companies to Watch in 2019](https://www.thestreet.com/technology/fintech-companies-14891479)<br/>
+[Avant](https://www.crunchbase.com/organization/avant-credit#section-overview)<br/>
+[The Venture Capital Marketplace](https://www.vcaonline.com/news/news.asp?ID=2015110301&utm_source=twitterfeed&utm_medium=twitter#.XfwxrGRKg2w)<br/>
+[AvantCredit.com Secures $34 Million in Funding from August Capital and Victory Park Capital](https://www.avant.com/press_release/release_2013_5_3)<br/>
+[Avant's Competitors, Revenue, Number of Employees, Funding and Acquisition](https://www.owler.com/company/avant)<br/>
+[Series A, B, C, D, and E Funding: How It Works](https://www.startups.com/library/expert-advice/series-funding-a-b-c-d-e?__hstc=219066822.b2d4c6ffffab47249cbf7fd23ba1c5f5.1576807868805.1576807868805.1576807868805.1&__hssc=219066822.1.1576807868806&__hsfp=4250418031)<br/>
+[Avant Personal Loans: 2019 Review](https://www.nerdwallet.com/reviews/loans/personal-loans/avant-personal-loans)<br/>
+[Average Credit Score In America: 2019 Report](https://www.valuepenguin.com/average-credit-score)<br/>
+[U.S and World Population Clock](https://www.census.gov/popclock/)<br/>
+[29 Credit Score Statistics for 2019](https://www.lexingtonlaw.com/blog/finance/credit-score-statistics-2018.html)<br/>
+[This is precisely how horrendous millenial credit scores are](https://www.marketwatch.com/story/this-is-precisely-how-horrendous-millennial-credit-scores-are-2018-08-22)<br/>
+[Millenials projected to overtake Baby Boomers as America's largest Generation](https://www.pewresearch.org/fact-tank/2018/03/01/millennials-overtake-baby-boomers/)
+[AvantCredit Rebrands to Avant to Expand Platform of Product and Services](https://www.avant.com/press_release/release_2015_3_32)<br/>
+[How Bid Data Could Replace Your Credit Score](https://www.fastcompany.com/90443104/the-25-best-new-apps-of-2019)<br/>
+[Loan Star: Is Avant A Future Billion Dollar Unicorn](https://www.forbes.com/sites/karstenstrauss/2015/04/15/loan-star-is-avant-a-future-billion-dollar-unicorn/#2a3f13d836d0)<br/>
+[What's in my FICO Scores](https://www.myfico.com/credit-education/whats-in-your-credit-score)<br/>
+[Current trends and the future of online lending](https://www.eiseverywhere.com/file_uploads/7b1fe9829cc916b17f62fd110290def7_Currenttrendsandthefutureofonlinelending.pdf)<br/>
+[Bill Gates said that 'Banking is necessary but banks are not' But banks are still around today](https://channels.theinnovationenterprise.com/articles/bill-gates-said-that-banking-is-necessary-banks-are-not-but-banks-are-still-around-today)<br/>
+["Banking is necessary, banks are not"-(Bill Gates)](https://medium.com/@taamarad/banking-is-necessary-banks-are-not-bill-gates-2ce424b9fb75)<br/>
+[Are Digital Platforms Transforming Lending Decisions?](https://www.entrepreneur.com/article/318342)<br/>
+[EKYC](https://www.karvy.com/ekyc/)<br/>
+[Avant.com](https://www.avant.com/)<br/>
+[Podcast 209: Al Goldstein of Avant and Amount](https://www.lendacademy.com/podcast-209-al-goldstein-of-avant-and-amount/)<br/>
+[Avant Personal Loan Review: Good for Borrowers With Fair to Average Credit](https://www.valuepenguin.com/personal-loans/avant-personal-loan-review)<br/>
+[Top KPIs For Consumer Lending](https://culytics.com/blogs/kpis-for-consumer-lending)<br/>
+[SoFi.com](https://www.sofi.com/protect/auto-insurance/)<br/>
+[When Do Car Insurance Rate Go Down?](https://www.thezebra.com/auto-insurance/when-does-car-insurance-go-down/#record)<br/>
+[About Root](https://www.joinroot.com/press)<br/>
+[How Long Does A NY Traffict Ticket Stay On My Record](https://nytrafficticket.com/how-long-does-a-ny-traffic-ticket-stay-on-my-driving-record/)<br/>
+[A new kind of auto insurance technology can lead to lower premiums, but it tracks your every move](https://www.cnbc.com/2018/10/05/new-kind-of-auto-insurance-can-be-cheaper-but-tracks-your-every-move.html)
 
-### FinTech Companies and Domains
 
-For an overview of some of the most successful companies across FinTech domains, check out these resources: 
 
-* [The 11 Biggest FinTech Companies in America 2019, Forbes](https://www.forbes.com/sites/jeffkauflin/2019/02/04/the-10-biggest-fintech-companies-in-america-2019/#5e6a3bc932b9)
-
-* [World FinTech Report 2019, Capgemini](https://fintechworldreport.com/)
-
-* [The Most Innovative FinTech Companies in 2019, Forbes](https://www.forbes.com/fintech/2019/#5264de5a2b4c)
-
-* [The Future of FinTech and Banking, Accenture](https://www.accenture.com/us-en/insight-future-fintech-banking)
-
-* [Hottest FinTech Startups, Business Insider](https://www.businessinsider.com/top-fintech-startup-companies)
-
-* [Top 10 FinTech Companies to Watch in 2019, TheStreet](https://www.thestreet.com/technology/fintech-companies-14891479)
-
-* [33 FinTech Companies and Startups to Keep in Your Back Pocket, Built In](https://builtin.com/fintech/fintech-companies-startups-to-know)
-
-* [Scanning the FinTech Landscape: 10 Disruptive Models, McKinsey & Company](https://www.mckinsey.com/industries/financial-services/our-insights/banking-matters/scanning-the-fintech-landscape)
-
-### Research Material
-
-As you research your company, you may find these types resources to be useful:
-
-* The company’s website
-
-* The company’s blog
-
-* Company press releases (These can often be found on the Press page of the company's website, or via Google search.) 
-
-* Websites of competitors
-
-* FinTech blogs and/or podcasts
-
-* Interviews with the company’s founders, CTOs, or project leads
-
-* Reports devoted to the particular FinTech domain you are focusing on (e.g.,  FinTech in the mortgage industry)
-
-*[Forbes](https://www.forbes.com/fintech/#39ae67bc13f1)
-
-* [McKinsey & Company](https://www.mckinsey.com/featured-insights/fintech)
-
-* [Reuters](https://www.reuters.com/news/archive/RCOMUS_Fintech)
-
-* [TechCrunch](https://techcrunch.com/tag/fintech/)
-
-* [Deloitte](https://www2.deloitte.com/us/en/pages/risk/articles/fintech-trends-insights.html)
-
-* [Built In](https://builtin.com/fintech)
-
-* [FinTech Weekly](https://www.fintechweekly.com/)
-
-* [KPMG](https://home.kpmg/us/en/home/industries/financial-services/fin-tech.html)
-
-* [Stackshare](https://stackshare.io/)
-
-* [Crunchbase](https://www.crunchbase.com/hub/fintech-startups#section-overview)
-
-* [Angelist](https://angel.co/finance-technology)
-
----
-
-## Submission
-
-* Create a repository for this homework on GitHub.
-
-* Upload the README file containing your case study report to this repository.
-
-* Include your presentation slideshow or a link to an online slideshow such as Google Slides. Make sure that the slideshow can be viewed by anyone.
-
-* Submit the link to your GitHub repository to Bootcamp Spot.
-
-- - - 
-
-© 2019 Trilogy Education Services
